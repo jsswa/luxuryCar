@@ -51,7 +51,7 @@ function Navbar() {
               </Link>
             </li>
 
-            <li>
+            <li className='nav-item'>
               <Link
                 to='/luxuryCar/sign-up'
                 className='nav-links-mobile'

@@ -55,7 +55,6 @@ function Footer() {
             <Link
               className='social-icon-link facebook'
               to='/luxuryCar'
-              target='_blank'
               aria-label='Facebook'
             >
               <i className='fab fa-facebook-f' />
@@ -63,7 +62,6 @@ function Footer() {
             <Link
               className='social-icon-link instagram'
               to='/luxuryCar'
-              target='_blank'
               aria-label='Instagram'
             >
               <i className='fab fa-instagram' />
@@ -71,7 +69,6 @@ function Footer() {
             <Link
               className='social-icon-link youtube'
               to='/luxuryCar'
-              target='_blank'
               aria-label='Youtube'
             >
               <i className='fab fa-youtube' />
@@ -79,7 +76,6 @@ function Footer() {
             <Link
               className='social-icon-link twitter'
               to='/luxuryCar'
-              target='_blank'
               aria-label='Twitter'
             >
               <i className='fab fa-twitter' />
