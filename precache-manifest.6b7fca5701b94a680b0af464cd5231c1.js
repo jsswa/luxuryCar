@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2e62ee50691ec7debafcd3bf4fac99a0",
+    "revision": "b6c6388ea2c00edda716d7c38b8bc458",
     "url": "/luxuryCar/index.html"
   },
   {
-    "revision": "be25f32993deb0bb5b9d",
+    "revision": "5841e647aed00a4ee6bb",
     "url": "/luxuryCar/static/css/main.2bd81344.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/luxuryCar/static/js/2.3516c28a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "be25f32993deb0bb5b9d",
-    "url": "/luxuryCar/static/js/main.cb93d5c9.chunk.js"
+    "revision": "5841e647aed00a4ee6bb",
+    "url": "/luxuryCar/static/js/main.e091900d.chunk.js"
   },
   {
     "revision": "42b2d5a27db86d475440",
