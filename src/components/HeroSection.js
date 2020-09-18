@@ -6,7 +6,7 @@ import './HeroSection.css';
 function HeroSection() {
   return (
     <div className='hero-container'>
-      <video src='/videos/video-1.mp4'poster="images/img-10.jpg" autoPlay loop muted />
+      <video src='luxuryCar/videos/video-1.mp4'poster="luxuryCar/images/img-10.jpg" autoPlay loop muted />
       <h1>LUXURY CARS</h1>
       <p>Une application React responsive</p>
       <div className='hero-btns'>

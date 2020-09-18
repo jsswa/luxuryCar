@@ -25,64 +25,64 @@ function Footer() {
           </form>
         </div>
       </section>
-      <div class='footer-links'>
+      <div className='footer-links'>
         <div className='footer-link-wrapper'>
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
             <h2>À propos</h2>
-            <Link to='/'>Témoignages</Link>
-            <Link to='/'>Carrières</Link>
-            <Link to='/'>Investisseurs</Link>
-            <Link to='/'>Conditions d'utilisation</Link>
+            <Link to='/luxuryCar'>Témoignages</Link>
+            <Link to='/luxuryCar'>Carrières</Link>
+            <Link to='/luxuryCar'>Investisseurs</Link>
+            <Link to='/luxuryCar'>Conditions d'utilisation</Link>
           </div>
-          <div class='footer-link-items'>
+          <div className='footer-link-items'>
             <h2>Nous contacter</h2>
-            <Link to='/'>Contact</Link>
-            <Link to='/'>Support</Link>
-            <Link to='/'>Partenariats</Link>
+            <Link to='/luxuryCar'>Contact</Link>
+            <Link to='/luxuryCar'>Support</Link>
+            <Link to='/luxuryCar'>Partenariats</Link>
           </div>
         </div>
       </div>
-      <section class='social-media'>
-        <div class='social-media-wrap'>
-          <div class='footer-logo'>
-            <Link to='/' className='social-logo'>
-            <i class='far fa-gem' />
+      <section className='social-media'>
+        <div className='social-media-wrap'>
+          <div className='footer-logo'>
+            <Link to='/luxuryCar' className='social-logo'>
+            <i className='far fa-gem' />
               LUXURY
             </Link>
           </div>
-          <small class='website-rights'>LUXURY © 2032</small>
-          <div class='social-icons'>
+          <small className='website-rights'>LUXURY © 2032</small>
+          <div className='social-icons'>
             <Link
-              class='social-icon-link facebook'
-              to='/'
+              className='social-icon-link facebook'
+              to='/luxuryCar'
               target='_blank'
               aria-label='Facebook'
             >
-              <i class='fab fa-facebook-f' />
+              <i className='fab fa-facebook-f' />
             </Link>
             <Link
-              class='social-icon-link instagram'
-              to='/'
+              className='social-icon-link instagram'
+              to='/luxuryCar'
               target='_blank'
               aria-label='Instagram'
             >
-              <i class='fab fa-instagram' />
+              <i className='fab fa-instagram' />
             </Link>
             <Link
-              class='social-icon-link youtube'
-              to='/'
+              className='social-icon-link youtube'
+              to='/luxuryCar'
               target='_blank'
               aria-label='Youtube'
             >
-              <i class='fab fa-youtube' />
+              <i className='fab fa-youtube' />
             </Link>
             <Link
-              class='social-icon-link twitter'
-              to='/'
+              className='social-icon-link twitter'
+              to='/luxuryCar'
               target='_blank'
               aria-label='Twitter'
             >
-              <i class='fab fa-twitter' />
+              <i className='fab fa-twitter' />
             </Link>
           </div>
         </div>
