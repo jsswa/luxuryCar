@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/luxuryCar/static/css/main.726f32d9.chunk.css",
-    "main.js": "/luxuryCar/static/js/main.c5139d6b.chunk.js",
-    "main.js.map": "/luxuryCar/static/js/main.c5139d6b.chunk.js.map",
+    "main.js": "/luxuryCar/static/js/main.33a972ae.chunk.js",
+    "main.js.map": "/luxuryCar/static/js/main.33a972ae.chunk.js.map",
     "runtime-main.js": "/luxuryCar/static/js/runtime-main.ac49ef23.js",
     "runtime-main.js.map": "/luxuryCar/static/js/runtime-main.ac49ef23.js.map",
     "static/js/2.3516c28a.chunk.js": "/luxuryCar/static/js/2.3516c28a.chunk.js",
     "static/js/2.3516c28a.chunk.js.map": "/luxuryCar/static/js/2.3516c28a.chunk.js.map",
     "index.html": "/luxuryCar/index.html",
-    "precache-manifest.e3700c397de279230d7b2fc762ea2316.js": "/luxuryCar/precache-manifest.e3700c397de279230d7b2fc762ea2316.js",
+    "precache-manifest.c46e5d1de47dfca95ef38eebfb227586.js": "/luxuryCar/precache-manifest.c46e5d1de47dfca95ef38eebfb227586.js",
     "service-worker.js": "/luxuryCar/service-worker.js",
     "static/css/main.726f32d9.chunk.css.map": "/luxuryCar/static/css/main.726f32d9.chunk.css.map",
     "static/js/2.3516c28a.chunk.js.LICENSE.txt": "/luxuryCar/static/js/2.3516c28a.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.ac49ef23.js",
     "static/js/2.3516c28a.chunk.js",
     "static/css/main.726f32d9.chunk.css",
-    "static/js/main.c5139d6b.chunk.js"
+    "static/js/main.33a972ae.chunk.js"
   ]
 }
