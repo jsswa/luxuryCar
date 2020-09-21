@@ -29,23 +29,23 @@ function Footer() {
         <div className='footer-link-wrapper'>
           <div className='footer-link-items'>
             <h2>À propos</h2>
-            <Link to='/luxuryCar'>Témoignages</Link>
-            <Link to='/luxuryCar'>Carrières</Link>
-            <Link to='/luxuryCar'>Investisseurs</Link>
-            <Link to='/luxuryCar'>Conditions d'utilisation</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Témoignages</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Carrières</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Investisseurs</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Conditions d'utilisation</Link>
           </div>
           <div className='footer-link-items'>
             <h2>Nous contacter</h2>
-            <Link to='/luxuryCar'>Contact</Link>
-            <Link to='/luxuryCar'>Support</Link>
-            <Link to='/luxuryCar'>Partenariats</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Contact</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Support</Link>
+            <Link to={`${process.env.PUBLIC_URL}/`}>Partenariats</Link>
           </div>
         </div>
       </div>
       <section className='social-media'>
         <div className='social-media-wrap'>
           <div className='footer-logo'>
-            <Link to='/luxuryCar' className='social-logo'>
+            <Link to={`${process.env.PUBLIC_URL}/`} className='social-logo'>
             <i className='far fa-gem' />
               LUXURY
             </Link>
@@ -54,28 +54,28 @@ function Footer() {
           <div className='social-icons'>
             <Link
               className='social-icon-link facebook'
-              to='/luxuryCar'
+              to={`${process.env.PUBLIC_URL}/`}
               aria-label='Facebook'
             >
               <i className='fab fa-facebook-f' />
             </Link>
             <Link
               className='social-icon-link instagram'
-              to='/luxuryCar'
+              to={`${process.env.PUBLIC_URL}/`}
               aria-label='Instagram'
             >
               <i className='fab fa-instagram' />
             </Link>
             <Link
               className='social-icon-link youtube'
-              to='/luxuryCar'
+              to={`${process.env.PUBLIC_URL}/`}
               aria-label='Youtube'
             >
               <i className='fab fa-youtube' />
             </Link>
             <Link
               className='social-icon-link twitter'
-              to='/luxuryCar'
+              to={`${process.env.PUBLIC_URL}/`}
               aria-label='Twitter'
             >
               <i className='fab fa-twitter' />

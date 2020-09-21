@@ -9,12 +9,12 @@ import SignUp from './SignUp';
 function App() {
   return (
     <>
-      <Router>
+      <Router basename={"/luxuryCar"}>
         <Navbar />
         <Switch>
-          <Route path='/luxuryCar' exact component={Home} />
-          <Route path='/luxuryCar/services' component={Services} />
-          <Route path='/luxuryCar/sign-up' component={SignUp} />
+          <Route path={`${process.env.PUBLIC_URL}/`} exact component={Home} />
+          <Route path={`${process.env.PUBLIC_URL}/services`} component={Services} />
+          <Route path={`${process.env.PUBLIC_URL}/sign-up`} component={SignUp} />
         </Switch>
       </Router>
     </>
